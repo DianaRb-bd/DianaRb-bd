@@ -45,3 +45,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Ciência de Dado
 
 ## 🎯 Objetivo
 Desenvolver soluções inteligentes baseadas em dados, utilizando tecnologia, análise e inovação para gerar valor e apoiar a tomada de decisões.
+
+---
+
