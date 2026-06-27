@@ -1,67 +1,47 @@
 # 👩🏻‍💻 Diana Ribeiro 🦋
-**` Administradora de Banco de Dados `**
+** Ciência de Dados e Inteligência Artificial | Análise e Desenvolvimento de Sistemas **
 
 ---
 
-<div> 
-  <a href="https://www.linkedin.com/in/diana-rodrigues-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:dianaribeiro,bd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## 👋 Sobre mim
+Sou Diana Ribeiro, natural de Minas Gerais e apaixonada por tecnologia, dados e inovação.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Ciência de Dados com Inteligência Artificial**, áreas nas quais encontrei uma nova paixão pela transformação de dados em conhecimento e soluções estratégicas.
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DianaRb-bd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaRb-bdh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+## 🌐 Conecte-se comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/diana-rodrigues-ribeiro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dianaribeiro.bd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+<p align="left">
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="Arduino" title="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+  <img alt="Azure" title="Microsoft Azure AZ-900" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+  <img alt="Power BI" title="Power BI" width="40px" src="https://img.icons8.com/color/48/power-bi.png"/>
+</p>
+
+---
+
+## 📚 Áreas de Interesse
+- 🗄️ Administrador de Banco de Dados
+- 📊 Power BI e Business Intelligence
+- 🐍 Análise de Dados com Python
+- ☁️ Computação em Nuvem 
+
+
+---
+
+## 🎯 Objetivo
+Desenvolver soluções inteligentes baseadas em dados, utilizando tecnologia, análise e inovação para gerar valor e apoiar a tomada de decisões.
